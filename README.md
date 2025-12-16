@@ -17,6 +17,13 @@ The included resources provide essential components to understand and extend the
 
 - PDDL: A Planning Domain Definition Language (PDDL) domain file that formalizes the planning aspects of the example scenario.
 
+
+## Example video
+
+The following video illustrates the execution of two Pick Behaviors, one being the Base Template without Flavors, the other with 5 example Flavors applied. 
+[![Demo Video](videos/thumbnail.png)](videos/video.mp4)
+
+
 ---
 
 ## Citation
