@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository contains the knowledge files supporting the implementation and evaluation of the methods presented in the paper "Knowledge-based Execution Configuration for Adaptive Behavior Trees.", part of the BeAware framework.
+This repository contains the knowledge files supporting the implementation and evaluation of the methods presented in the paper "Knowledge-based Execution Configuration for Adaptive Behavior Trees.", part of the BeAware framework. These files correspond to the Extended Abstract submitted to the **International Workshop on Ontologies and Standards for Robotics and Automation (WOSRA 2024) @ ICRA 2024, May 13th, Yokohama, Japan**
 
 The included resources provide essential components to understand and extend the example scenario discussed in the paper, including:
 
@@ -18,29 +18,26 @@ The included resources provide essential components to understand and extend the
 - PDDL: A Planning Domain Definition Language (PDDL) domain file that formalizes the planning aspects of the example scenario.
 
 
-## Example video
-
-The following video illustrates the execution of two Pick Behaviors, one being the Base Template without Flavors, the other with 5 example Flavors applied. 
-[![Demo Video](videos/thumbnail.png)](videos/video.mp4)
-
-
 ---
 
 ## Citation
 
-If you use this work, please cite the paper (currently under review):
+This dataset repository corresponds to the following publication:
 
 ```
-@article{RuizCelada2025,
-  author    = {Oriol Ruiz-Celada and Jan Rosell and Raúl Suárez},
-  title     = {Knowledge-based Execution Configuration for Adaptive Behavior Trees},
-  journal   = {<Journal Name>},
-  year      = {2025},
-  volume    = {<Volume Number>},
-  number    = {<Issue Number>},
-  pages     = {<Page Range>},
-  doi       = {<DOI>},
-  url       = {<URL if applicable>},
+@misc{ruiz_celada_2024_18596503,
+  author       = {Ruiz Celada, Oriol and
+                  Rosell, Jan and
+                  Suarez, Raul},
+  title        = {IntelliMan\_WP5\_Grasping, Manipulation and Arm-Hand
+                   Coordination\_T5.4\_Experience- and model-based
+                   Grasp Synthesis and Manipulation\_WOSRA24
+                  },
+  month        = may,
+  year         = 2024,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.18596503},
+  url          = {https://doi.org/10.5281/zenodo.18596503},
 }
 ```
 ---
